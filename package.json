@@ -1,0 +1,12 @@
+{
+  "name": "is-christmas-day",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Check if today is Christmas day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mengnans",
+  "license": "ISC"
+}
