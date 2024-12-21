@@ -1,2 +1,2 @@
 # is-christmas-day
-Check if today is christmas
+Check if today is christmas day

@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "type": "module",
   "description": "Check if today is Christmas day",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mengnans",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
